@@ -5,9 +5,9 @@ I'm <strong>Tabrez</strong>.
 
 👦 **_About me_** :
 - 🔭 I’m currently working on Javascript and VueJs trying to learn and contribute to my best.
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning ReactJs, Deno, Flutter
 - 👯 I’m looking to collaborate on VueJs projects 
-- 🤔 I’m looking for help with ReactJs, Flutter
+- 🤔 I’m looking for help with ReactJs, Flutter, Deno
 - 💬 Ask me about Javascript or vue I will try my best to help you if I can.
 - 📫 How to reach me: tabrezdn1@gmail.com
 - 🎮 Dota2 
