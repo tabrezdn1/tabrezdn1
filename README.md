@@ -4,11 +4,10 @@ I'm <strong>Tabrez</strong>.
 </p>
 
 👦 **_About me_** :
-- 🔭 I’m currently working on Javascript and VueJs trying to learn and contribute to my best.
-- 🌱 I’m currently learning ReactJs, Deno, Flutter
-- 👯 I’m looking to collaborate on VueJs projects 
-- 🤔 I’m looking for help with ReactJs, Flutter, Deno
-- 💬 Ask me about Javascript or vue I will try my best to help you if I can.
+- 🔭 I’m currently working on Javascript, Vue and React in particular - trying contribute to my best.
+- 🌱 I’m currently learning Angular, Ionic, Flutter honestly the list is never ending...
+- 👯 I’m looking to collaborate on Vue React or Angular projects or simple Javascript library. I have few orgs registered for the same. 
+- 💬 Ask me about Javascript I will try my best to help you.
 - 📫 How to reach me: tabrezdn1@gmail.com
 - 🎮 Dota2 
 
