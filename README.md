@@ -1,15 +1,14 @@
-<h1 align='center'> Hi there !!! :wave:</h1>
+<h1 align='center'> Hello there !!! :wave:</h1>
 <p align='center'>
 I'm <strong>Tabrez</strong>.
 </p>
+<h1 align='center'><a href="https://tabrezdn1.github.io/" target="_blank">Checkout my portfolio</a></h1>
 
 👦 **_About me_** :
-- 🔭 I’m currently working on Javascript, Vue and React in particular - trying contribute to my best.
-- 🌱 I’m currently learning Angular, Ionic, Flutter honestly the list is never ending...
-- 👯 I’m looking to collaborate on Vue React or Angular projects or simple Javascript library. I have few orgs registered for the same. 
+- 🔭 I’m currently working on Javascript, Vue, and React in particular - trying to contribute my best.
+- 👯 I’m looking to collaborate on Vue React or Angular projects or a simple Javascript library. I have a few orgs registered for the same. 
 - 💬 Ask me about Javascript I will try my best to help you.
 - 📫 How to reach me: tabrezdn1@gmail.com
-- 🎮 Dota2 
 
 🎉 **_Fun Facts_** 🎉:
 
