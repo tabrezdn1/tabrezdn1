@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tabrezdn1.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐-Check_out_my_portfolio!-brightgreen?style=for-the-badge&logo=appveyor"></a>
+  <a href="https://tabrezdn1.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐-Check_out_my_portfolio!-brightgreen?style=for-the-badge&logo=appveyor"></a>
 </p>
 
 # 👋 About Me - I am Shaik Tabrez
