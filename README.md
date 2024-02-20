@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://tabrezdn1.github.io/about" target="_blank"><img src="https://img.shields.io/badge/🌐-Check_out_my_portfolio!-brightgreen?style=for-the-badge&logo=appveyor"></a>
 </p>
-# 👋 About Me
+
+# 👋 About Me - I am Shaik Tabrez
 Hello! I'm a passionate **Software Engineer** with nearly five years of thrilling adventures in the realm of web development. Armed with a love for **JavaScript** that burns brighter than a thousand console logs, I've been crafting captivating digital experiences that dance across browsers with finesse.
 
 I am familiar with C++ and Java, but I prefer JavaScript. As of now, I am learning **Python** and trying to contribute my best in the field of **Artificial Intelligence** and **Machine Learning**.
