@@ -22,12 +22,6 @@ So if you're seeking an  Engineer, then look no further. Let's embark on an epic
 - Ask me about **JavaScript**; I will try my best to help you.
 - 📫 How to reach me: [tabrezdn1@gmail.com](mailto:tabrezdn1@gmail.com)
 
-## 🎉 Fun Facts
-- Did you know? You can make a commit on a date before your birth! Try out the following command: `git commit --date="Wed Feb 16 14:00 1990 +0100"`
-- GitHub, Inc. was originally known as Logical Awesome LLC. Check out the present [Logical Awesome LLC site here](https://logicalawesome.com).
-
-## ✨ Stay Awesome! ✨
-
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabrezdn1&show_icons=true&theme=radical)
 
@@ -80,3 +74,23 @@ So if you're seeking an  Engineer, then look no further. Let's embark on an epic
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 
+## 🎉 Fun Facts
+- Did you know? You can make a commit on a date before your birth! Try out the following command: `git commit --date="Wed Feb 16 14:00 1990 +0100"`
+
+- **GitHub, Inc.** was originally known as Logical Awesome LLC. Check out the present [Logical Awesome LLC site here](https://logicalawesome.com).
+
+- **Ada Lovelace, the First Programmer:** Did you know that Ada Lovelace wrote the first computer algorithm in 1843, making her the world's first computer programmer? Fascinating how far we've come since then!
+
+- **The Original Computer Bug:** The term "bug" in programming originated from a real-life moth causing trouble in Harvard's Mark II computer in 1947. Talk about a literal bug in the system!
+
+- **The Internet's First Website:** The first-ever website created by Tim Berners-Lee is still live at its original URL. It's amazing to see where the web started!
+
+- **My First Programming Language:** My programming journey began with drawing a circle in LOGO. Everyone starts somewhere!
+
+- **Most Memorable Bug:** I once spent hours debugging code only to realize I was editing the wrong file. Always check your tabs!
+
+- **Tech Prediction:** I dream of developing an AI that can compose music indistinguishable from that of the great classical composers. One day!
+
+Feel free to share your fun facts or ask me about any of mine!
+
+## ✨ Nice to meet you! ✨
