@@ -8,14 +8,14 @@
 # Shaik Tabrez
 Hello! I'm a passionate **Software Engineer** with nearly five years of thrilling adventures in the realm of web development. Armed with a love for **JavaScript** that burns brighter than a thousand console logs, I've been crafting captivating digital experiences that dance across browsers with finesse.
 
-I am familiar with C++ and Java, but I prefer JavaScript. As of now, I am learning **Python** and trying to contribute my best in the field of **Artificial Intelligence** and **Machine Learning**.
+I am familiar with C++ and Java, but I prefer JavaScript and Python. As of now, I am learning **Python** and trying to contribute my best in the field of **Artificial Intelligence** and **Machine Learning**.
 
 But beyond the code, I'm a storyteller at heart, weaving narratives through elegant interfaces that captivate and delight users. With a firm belief that every line of code has the power to shape experiences and spark joy, I strive to create digital worlds that leave a lasting impression.
 
 So if you're seeking an  Engineer, then look no further. Let's embark on an epic journey together, where creativity knows no bounds and the possibilities are as limitless as the web itself! 🚀
 
 ## 🚧 What I'm Working On
-- 🔭 Currently diving deep into **JavaScript, Vue, and React** - aiming to contribute my best.
+- 🔭 Currently diving deep into **JavaScript and Python** - aiming to contribute my best.
 - 👯 Looking to collaborate on **Python, Vue, or React projects**, or a simple JavaScript library.
 
 ## 💬 Let's Talk
