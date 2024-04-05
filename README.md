@@ -5,10 +5,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello there! Welcome to my GitHub Profile!">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&multiline=true&random=false&width=435&lines=Hello!+I+am+Shaik+Tabrez)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=1000&multiline=true&random=false&width=435&lines=Hello!+I+am+Shaik+Tabrez)](https://git.io/typing-svg)
 
-# Shaik Tabrez
-Hello! I'm a passionate **Software Engineer** with nearly five years of thrilling adventures in the realm of web development. Armed with a love for **JavaScript** that burns brighter than a thousand console logs, I've been crafting captivating digital experiences that dance across browsers with finesse.
+I'm a passionate **Software Engineer** with nearly five years of thrilling adventures in the realm of web development. Armed with a love for **JavaScript** that burns brighter than a thousand console logs, I've been crafting captivating digital experiences that dance across browsers with finesse.
 
 I am familiar with C++ and Java, but I prefer JavaScript and Python. As of now, I am learning **Python** and trying to contribute my best in the field of **Artificial Intelligence** and **Machine Learning**.
 
