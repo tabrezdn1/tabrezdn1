@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello there! Welcome to my GitHub Profile!">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&pause=1000&multiline=true&random=false&width=435&lines=Hello!+I+am+Shaik+Tabrez)](https://git.io/typing-svg)
+# Shaik Tabrez <a href="https://www.linkedin.com/in/shaik-tabrez/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 
 I'm a passionate **Software Engineer** with nearly five years of thrilling adventures in the realm of web development. Armed with a love for **JavaScript** that burns brighter than a thousand console logs, I've been crafting captivating digital experiences that dance across browsers with finesse.
 
@@ -22,9 +22,6 @@ So if you're seeking an  Engineer, then look no further. Let's embark on an epic
 ## 💬 Let's Talk
 - Ask me about **JavaScript**; I will try my best to help you.
 - 📫 How to reach me: [tabrezdn1@gmail.com](mailto:tabrezdn1@gmail.com)
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabrezdn1&show_icons=true&theme=radical)
 
 ### 🌐 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabrezdn1&layout=compact&theme=radical)
@@ -74,6 +71,11 @@ So if you're seeking an  Engineer, then look no further. Let's embark on an epic
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tabrezdn1&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tabrezdn1&theme=radical&hide_border=true&" alt="tabrezdn1"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabrezdn1" alt="tabrezdn1" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=tabrezdn1&theme=onedark&column=3&margin-w=15&margin-h=15" alt="tabrezdn1"/></p>
 
 ## 🎉 Fun Facts
 - Did you know? You can make a commit on a date before your birth! Try out the following command: `git commit --date="Wed Feb 16 14:00 1990 +0100"`
