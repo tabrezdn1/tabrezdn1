@@ -7,27 +7,12 @@
 
 # Tabrez Shaik <a href="https://www.linkedin.com/in/shaik-tabrez/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 
-<!---
+I'm a passionate **Software Engineer** with nearly six years of experience building scalable applications, implementing AI solutions, and delivering high-performance systems for enterprises and startups.
 
-I'm a passionate **Software Engineer** with nearly five years of thrilling adventures in the realm of web development. Armed with a love for **JavaScript** that burns brighter than a thousand console logs, I've been crafting captivating digital experiences that dance across browsers with finesse.
-
-I am familiar with C++ and Java, but I prefer JavaScript and Python. As of now, I am learning **Python** and trying to contribute my best in the field of **Artificial Intelligence** and **Machine Learning**.
+I prefer to code in JavaScript/TypeScript and Python.
 
 But beyond the code, I'm a storyteller at heart, weaving narratives through elegant interfaces that captivate and delight users. With a firm belief that every line of code has the power to shape experiences and spark joy, I strive to create digital worlds that leave a lasting impression.
 
-So if you're seeking an  Engineer, then look no further. Let's embark on an epic journey together, where creativity knows no bounds and the possibilities are as limitless as the web itself! 🚀
-
-
-## 🚧 What I'm Working On
-- 🔭 Currently diving deep into **JavaScript and Python** - aiming to contribute my best.
-- 👯 Looking to collaborate on **Python, Vue, or React projects**, or a simple JavaScript library.
-
--->
-
-## 💬 Let's Talk
-<!---
-- Ask me about **JavaScript**; I will try my best to help you.
--->
 - 📫 How to reach me: [tabrezdn1@gmail.com](mailto:tabrezdn1@gmail.com)
 
 ### 🌐 Top Languages
@@ -85,22 +70,8 @@ So if you're seeking an  Engineer, then look no further. Let's embark on an epic
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=tabrezdn1&theme=onedark&column=3&margin-w=15&margin-h=15" alt="tabrezdn1"/></p>
 
 ## 🎉 Fun Facts
-- Did you know? You can make a commit on a date before your birth! Try out the following command: `git commit --date="Wed Feb 16 14:00 1990 +0100"`
-
-- **GitHub, Inc.** was originally known as Logical Awesome LLC. Check out the present [Logical Awesome LLC site here](https://logicalawesome.com).
-
-- **Ada Lovelace, the First Programmer:** Did you know that Ada Lovelace wrote the first computer algorithm in 1843, making her the world's first computer programmer? Fascinating how far we've come since then!
-
-- **The Original Computer Bug:** The term "bug" in programming originated from a real-life moth causing trouble in Harvard's Mark II computer in 1947. Talk about a literal bug in the system!
-
-- **The Internet's First Website:** The first-ever website created by Tim Berners-Lee is still live at its original URL. It's amazing to see where the web started!
-
 - **My First Programming Language:** My programming journey began with drawing a circle in LOGO. Everyone starts somewhere!
 
 - **Most Memorable Bug:** I once spent hours debugging code only to realize I was editing the wrong file. Always check your tabs!
-
-- **Tech Prediction:** I dream of developing an AI that can compose music indistinguishable from that of the great classical composers. One day!
-
-Feel free to share your fun facts or ask me about any of mine!
 
 ## ✨ Nice to meet you! ✨
