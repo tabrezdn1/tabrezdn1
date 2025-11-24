@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tabrezdn1.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐-Check_out_my_portfolio!-brightgreen?style=for-the-badge&logo=appveyor"></a>
+  <a href="https://shaiktabrez.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐-Check_out_my_portfolio!-brightgreen?style=for-the-badge&logo=appveyor"></a>
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello there! Welcome to my GitHub Profile!">
@@ -9,7 +9,7 @@
 
 I'm a passionate **Software Engineer** with nearly six years of experience building scalable applications, implementing AI solutions, and delivering high-performance systems for enterprises and startups.
 
-I prefer to code in JavaScript/TypeScript and Python.
+I prefer to code in TypeScript and Python.
 
 But beyond the code, I'm a storyteller at heart, weaving narratives through elegant interfaces that captivate and delight users. With a firm belief that every line of code has the power to shape experiences and spark joy, I strive to create digital worlds that leave a lasting impression.
 
